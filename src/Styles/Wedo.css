@@ -1,0 +1,61 @@
+.image{
+   
+    width: 40%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    margin: 20px;
+    gap: 30%;
+  
+}
+    .main-heading{
+    display: flex;
+    gap: 40%;
+    
+}
+.next-page {
+    display: flex;
+    color: blue;
+}
+
+.text-subheading{
+margin-left: 5px;
+}
+.main-heading{
+    margin-bottom: 40px;
+    font-size:30px ;
+
+}
+
+h2{
+    font-size:40px ;
+}
+.build-page{
+    margin-top: 80px;
+
+}
+.speed-page {
+    margin-top: 80px;
+}
+
+.cloud-page{
+    margin-top: 80px;
+}
+
+    
+.text-subheading h3{
+   color: black;
+}
+
+.last-btn button{
+    margin-top: 10%;
+    color: white;
+    background-color: black;
+    height: 80px;
+    width:10%;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 30px;
+  }

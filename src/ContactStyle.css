@@ -1,0 +1,44 @@
+
+.contact-main-div{
+    border: 1px solid  gray;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 10px;
+    height: 90%;
+    width: 70%;
+   
+   
+}
+label{
+    font-size: 25px;
+    column-gap: 20px;
+    width: 20%;
+   
+}
+
+input{
+    width: 90%;
+    
+}
+select {
+    width: 500px;
+    height:50px
+}
+textarea{
+    width: 500px;
+  
+}  
+
+ .contact-btn  button{
+    margin-left: 30%;
+    margin-top: 30px;
+    color: white;
+    background-color:green;
+    height: 80px;
+    width:10%;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 30px;
+    border-radius: 10px;
+}
